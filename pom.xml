@@ -20,6 +20,7 @@
     <modules>
         <module>lingxi-springcloud-registry-eureka-server</module>
         <module>lingxi-springcloud-eureka-client-user-service</module>
+        <module>lingxi-springcloud-eureka-client-order-service</module>
     </modules>
 
 
@@ -47,15 +48,13 @@
 
 
     <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
+
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-commons</artifactId>
         </dependency>
+
+
     </dependencies>
 
 

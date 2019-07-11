@@ -7,8 +7,8 @@
         <artifactId>lingxi-springcloud</artifactId>
         <version>1.0.0</version>
     </parent>
-    <artifactId>lingxi-springcloud-eureka-client-user-service</artifactId>
-    <name>lingxi-springcloud-eureka-client-user-service</name>
+    <artifactId>lingxi-springcloud-eureka-client-order-service</artifactId>
+    <name>lingxi-springcloud-eureka-client-order-service</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>
