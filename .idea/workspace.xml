@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd62242a-272e-4281-af43-df3f118265cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/feign/UserFeignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/feign/UserFeignServiceFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/test/java/com/luxh/lingxi/controller/OrderControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/test/java/com/luxh/lingxi/feign/UserFeignServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/java/com/luxh/lingxi/feign/OrderFeignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/java/com/luxh/lingxi/feign/OrderFeignServiceFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/test/java/com/luxh/lingxi/controller/UserControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-common/src/main/java/com/luxh/common/resp/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-common/src/main/java/com/luxh/common/resp/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/java/com/luxh/lingxi/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/test/java/com/luxh/lingxi/LingxiSpringcloudEurekaClientUserServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/java/com/luxh/lingxi/UserServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/java/com/luxh/lingxi/UserServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/java/com/luxh/lingxi/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/java/com/luxh/lingxi/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/test/java/com/luxh/lingxi/LingxiSpringcloudEurekaClientUserServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingxi-springcloud-registry-eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lingxi-springcloud-registry-eureka-server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,11 +40,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lingxi-springcloud-registry-eureka-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="362">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -123,6 +115,7 @@
         <option value="$PROJECT_DIR$/lingxi-springcloud-eureka-client-user-service/src/main/java/com/luxh/lingxi/feign/OrderFeignService.java" />
         <option value="$PROJECT_DIR$/lingxi-springcloud-eureka-client-order-service/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/lingxi-springcloud-registry-eureka-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/README.MD" />
       </list>
     </option>
   </component>
@@ -161,6 +154,10 @@
               <item name="lingxi-springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="lingxi-springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lingxi-springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,7 +173,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562925376977" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562925602018" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -305,7 +302,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562745316046</updated>
-      <workItem from="1562745326597" duration="36806000" />
+      <workItem from="1562745326597" duration="37398000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1562845282653</created>
@@ -314,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562845282653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加feign调用">
+      <created>1562925486466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562925486466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -350,7 +354,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36806000" />
+    <option name="totallyTimeSpent" value="37398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -396,7 +400,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="添加feign调用" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加feign调用" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lingxi-springcloud-registry-eureka-server/src/test/java/com/luxh/lingxi/registry/eureka/LingxiSpringcloudRegistryEurekaServerApplicationTests.java">
@@ -702,6 +707,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
