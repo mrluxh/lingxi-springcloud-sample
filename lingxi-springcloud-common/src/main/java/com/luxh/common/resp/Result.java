@@ -8,29 +8,28 @@ import lombok.Data;
  * @Date 2019/7/11
  */
 @Data
-public class Result {
+public class Result<T> {
 
     private int code;
 
     private String mesaage;
 
-    private Object data;
+    private T data;
 
 
-    public static Result success() {
+    public static <T> Result success() {
         return result(Status.OK.getCode(), Status.OK.getMessage(), new Object());
     }
 
-    public static Result success(Object data) {
+    public static <T> Result success(T data) {
         return result(Status.OK.getCode(), Status.OK.getMessage(), data);
     }
 
-    public static Result fail(int code, String message) {
+    public static <T> Result fail(int code, String message) {
         return result(code, message, null);
     }
 
-
-    private static Result result(int code, String mesaage, Object data) {
+    private static <T> Result result(int code, String mesaage, T data) {
         Result result = new Result();
         result.setCode(code);
         result.setMesaage(mesaage);
